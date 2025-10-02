@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I'm Carina B.S.!
+
+As a Frontend developer, I work with the following tools and tech stacks
+
+## Tech
+
+## Tools
 
 <!--
 **CarinaBondor/CarinaBondor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
